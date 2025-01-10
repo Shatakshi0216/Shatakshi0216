@@ -1,11 +1,10 @@
 <div style="text-align: center;">
- <h2>Hi there, I'm Shatakshi! 👋</h2>
-<p>Software Developer | Problem Solver | AIML Learner | DSA Enthusiast | Leadership Advocate</p>
-
-  
+  <h2>Hi there, I'm Shatakshi! 👋</h2>
+  <p>Software Developer | Problem Solver | AIML Learner | DSA Enthusiast | Leadership Advocate</p>
 </div>
-<div style="text-align: center;">
 
+---
+<div style="text-align: center;">
     <h3>About Me</h3>
     <p>👩‍💻 I'm Shatakshi, an aspiring software developer with a strong focus on DSA, Machine Learning, and problem-solving. I am proficient in C and C++.</p>
     <p>🌱 Currently enhancing my skills in algorithms and working on real-world projects to strengthen my expertise.</p>
@@ -32,7 +31,7 @@
     <a href="https://www.linkedin.com/in/shatakshitiwari017/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="https://github.com/Shatakshi0216"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
     <a href="mailto:shatakshitiwari021@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
-      <a href="https://www.hackerrank.com/profile/shatakshitiwari1">
+    <a href="https://www.hackerrank.com/profile/shatakshitiwari1">
         <img src="https://img.icons8.com/?size=50&id=OUPsEPLKIebZ&format=png&color=000000" alt="HackerRank" style="height: 48px; width: 48px;"/>
       </a>
       <a href="https://www.credly.com/users/shatakshi-tiwari/edit">
