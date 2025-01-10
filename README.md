@@ -1,4 +1,11 @@
 <div style="text-align: center;">
+ <h2>Hi there, I'm Shatakshi! 👋</h2>
+<p>Software Developer | Problem Solver | AIML Learner | DSA Enthusiast | Leadership Advocate</p>
+
+  
+</div>
+<div style="text-align: center;">
+
     <h3>About Me</h3>
     <p>👩‍💻 I'm Shatakshi, an aspiring software developer with a strong focus on DSA, Machine Learning, and problem-solving. I am proficient in C and C++.</p>
     <p>🌱 Currently enhancing my skills in algorithms and working on real-world projects to strengthen my expertise.</p>
