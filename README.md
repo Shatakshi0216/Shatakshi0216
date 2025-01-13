@@ -31,6 +31,7 @@
     <a href="https://www.linkedin.com/in/shatakshitiwari017/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="https://github.com/Shatakshi0216"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
     <a href="mailto:shatakshitiwari021@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+    <a href="https://leetcode.com/u/stiwari_17/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
     <a href="https://www.hackerrank.com/profile/shatakshitiwari1">
         <img src="https://img.icons8.com/?size=50&id=OUPsEPLKIebZ&format=png&color=000000" alt="HackerRank" style="height: 48px; width: 48px;"/>
       </a>
