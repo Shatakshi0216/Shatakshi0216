@@ -96,8 +96,7 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shatakshi0216&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6" alt="GitHub Stats" />
-  
-  
+ 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shatakshi0216&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
@@ -120,10 +119,10 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 **Detailed Stats:**
-- 🎯 **LeetCode:** 160 problems solved (60 Easy, 86 Medium, 14 Hard)
-- 🏅 **CodeChef:** 1184 rating (Div 4), Global Rank 84,207
-- ⭐ **HackerRank:** 5★ in C++ and Java
-- 📚 **Coding Ninjas:** 311 problem submissions, 67-day streak
+• 🎯 **LeetCode:** 160 problems solved (60 Easy, 86 Medium, 14 Hard)
+• 🏅 **CodeChef:** 1184 rating (Div 4), Global Rank 84,207
+• ⭐ **HackerRank:** 5★ in C++ and Java
+• 📚 **Coding Ninjas:** 311 problem submissions, 67-day streak
 
 ### 🎓 **Professional Certifications**
 
@@ -132,9 +131,9 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 ![VOIS](https://img.shields.io/badge/VOIS-00A3E0?style=for-the-badge&logo=vois&logoColor=white)
 
 **Certifications:**
-- ☁️ **Cloud Computing & Generative AI Foundations** - Google Cloud
-- 🤖 **AI & Generative AI Specialization** - IBM  
-- 📚 **Machine Learning Foundations** - VOIS
+• ☁️ **Cloud Computing & Generative AI Foundations** - Google Cloud
+• 🤖 **AI & Generative AI Specialization** - IBM  
+• 📚 **Machine Learning Foundations** - VOIS
 
 ---
 
