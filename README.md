@@ -17,11 +17,15 @@
 
 I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my **MTech (IT) 5-Year Integrated Course** at International Institute of Professional Studies, DAVV, Indore with a stellar **CGPA of 9.13**. 
 
+<div align="center">
+  
 **Key Highlights:**
 - 🔥 **300+ DSA problems** solved across LeetCode, Coding Ninja, and HackerRank
 - 🏆 **Global Rank 6280** on Codolio and **1184 rating** on CodeChef
 - 💻 **150+ GitHub contributions** in the last year
 - 🌟 **98.7% accuracy** achieved in medical AI projects
+
+</div>
 
 ---
 
@@ -97,7 +101,11 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shatakshi0216&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shatakshi0216&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&currStreakLabel=8B5CF6&sideNums=FFFFFF&sideLabels=8B5CF6&dates=8B5CF6" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Shatakshi0216&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&currStreakLabel=8B5CF6&sideNums=FFFFFF&sideLabels=8B5CF6&dates=8B5CF6" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shatakshi0216&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
