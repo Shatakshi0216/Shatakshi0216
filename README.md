@@ -17,15 +17,11 @@
 
 I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my **MTech (IT) 5-Year Integrated Course** at International Institute of Professional Studies, DAVV, Indore with a stellar **CGPA of 9.13**. 
 
-<div align="center">
-  
 **Key Highlights:**
-🔥 **300+ DSA problems** solved across LeetCode, Coding Ninja, and HackerRank
-🏆 **Global Rank 6280** on Codolio and **1184 rating** on CodeChef
-💻 **150+ GitHub contributions** in the last year
-🌟 **98.7% accuracy** achieved in medical AI projects
-
-</div>
+- 🔥 **300+ DSA problems** solved across LeetCode, Coding Ninja, and HackerRank
+- 🏆 **Global Rank 6280** on Codolio and **1184 rating** on CodeChef
+- 💻 **150+ GitHub contributions** in the last year
+- 🌟 **98.7% accuracy** achieved in medical AI projects
 
 ---
 
