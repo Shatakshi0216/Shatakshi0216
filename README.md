@@ -46,7 +46,7 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 **Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Key Achievements:**
-- ✅ **95%+ accuracy** in pest detection
+- ✅ **95%+ accuracy** in pest detection    
 - ✅ **Co-led 7-person team** development
 - ✅ **Real-time diagnoses** & market data
 
@@ -97,8 +97,7 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shatakshi0216&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Shatakshi0216&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&currStreakLabel=8B5CF6&sideNums=FFFFFF&sideLabels=8B5CF6&dates=8B5CF6" alt="GitHub Streak" />
-</div>
+ 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shatakshi0216&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
@@ -123,11 +122,10 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 **Detailed Stats:**
-- 🎯 **LeetCode:** 150+ problems solved
-- 🏅 **CodeChef:** 1184 rating, 4★ coder
-- ⭐ **HackerRank:** 5★ in Python, 4★ in Problem Solving
-- 🏆 **Codolio:** Global Rank 6280
-- 📚 **Coding Ninja:** 100+ problems completed
+- 🎯 **LeetCode:** 160 problems solved (60 Easy, 86 Medium, 14 Hard)
+- 🏅 **CodeChef:** 1184 rating (Div 4), Global Rank 84,207
+- ⭐ **HackerRank:** 5★ in C++ and Java
+- 📚 **Coding Ninjas:** 311 problem submissions, 67-day streak
 
 </div>
 
