@@ -20,10 +20,10 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 <div align="center">
   
 **Key Highlights:**
-- 🔥 **300+ DSA problems** solved across LeetCode, Coding Ninja, and HackerRank
-- 🏆 **Global Rank 6280** on Codolio and **1184 rating** on CodeChef
-- 💻 **150+ GitHub contributions** in the last year
-- 🌟 **98.7% accuracy** achieved in medical AI projects
+🔥 **300+ DSA problems** solved across LeetCode, Coding Ninja, and HackerRank
+🏆 **Global Rank 6280** on Codolio and **1184 rating** on CodeChef
+💻 **150+ GitHub contributions** in the last year
+🌟 **98.7% accuracy** achieved in medical AI projects
 
 </div>
 
