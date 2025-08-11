@@ -118,6 +118,7 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+
 **Detailed Stats:**
 - 🎯 **LeetCode:** 160 problems solved (60 Easy, 86 Medium, 14 Hard)
 - 🏅 **CodeChef:** 1184 rating (Div 4), Global Rank 84,207
@@ -129,6 +130,7 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![VOIS](https://img.shields.io/badge/VOIS-00A3E0?style=for-the-badge&logo=vois&logoColor=white)
+
 **Certifications:**
 - ☁️ **Cloud Computing & Generative AI Foundations** - Google Cloud
 - 🤖 **AI & Generative AI Specialization** - IBM  
