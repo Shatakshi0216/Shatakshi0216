@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shatakshi0216&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Shatakshi0216&style=flat-square&color=8B5CF6" alt="Profile Views" />
   <img src="https://img.shields.io/badge/MTech%20IT-5%20Year%20Integrated-blue?style=flat-square&logo=graduation-cap" alt="Education" />
   <img src="https://img.shields.io/badge/CGPA-9.13-brightgreen?style=flat-square" alt="CGPA" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=flat-square" alt="Status" />
@@ -17,7 +17,7 @@
 
 I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my **MTech (IT) 5-Year Integrated Course** at International Institute of Professional Studies, DAVV, Indore with a stellar **CGPA of 9.13**. 
 
-My journey in tech is driven by:
+**Key Highlights:**
 - 🔥 **300+ DSA problems** solved across LeetCode, Coding Ninja, and HackerRank
 - 🏆 **Global Rank 6280** on Codolio and **1184 rating** on CodeChef
 - 💻 **150+ GitHub contributions** in the last year
@@ -28,7 +28,7 @@ My journey in tech is driven by:
 ## 🛠️ Tech Stack
 
 <div align="center">
-  
+
 ### 💻 Programming & Web
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,7 +65,7 @@ My journey in tech is driven by:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Achieved 95%+ accuracy in pest detection** | **Co-led 7-person team** | **Real-time diagnoses & market data**
+**95%+ accuracy in pest detection** | **Co-led 7-person team** | **Real-time diagnoses & market data**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://krishimitra-ai.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamr021/KrishiMitra-AI)
@@ -98,7 +98,7 @@ My journey in tech is driven by:
 
 ---
 
-## 📊 GitHub Stats & Achievements
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shatakshi0216&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6" alt="GitHub Stats" />
@@ -106,24 +106,18 @@ My journey in tech is driven by:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shatakshi0216&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&currStreakLabel=8B5CF6&sideNums=FFFFFF&sideLabels=8B5CF6&dates=8B5CF6" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shatakshi0216&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
 ---
 
-## 🏅 Certifications & Achievements
+## 💼 Experience & Achievements
 
 <div align="center">
 
-### 🎓 Professional Certifications
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![VOIS](https://img.shields.io/badge/VOIS-00A3E0?style=for-the-badge&logo=vois&logoColor=white)
+### 🏢 Professional Experience
+**Java Development Intern** | *Cognifyz Technologies (Remote)* | *June 2024 – July 2024*
 
-- **Cloud Computing & Generative AI Foundations** - Google Cloud
-- **AI & Generative AI Specialization** - IBM
-- **Machine Learning Foundations** - VOIS
+- **15% code efficiency improvement** through advanced OOP principles
+- Engineered production-ready Java modules for real-world business scenarios
+- Refactored legacy codebase using design patterns
 
 ### 🏆 Competitive Programming
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)
@@ -133,31 +127,15 @@ My journey in tech is driven by:
 - **300+ DSA problems** solved across platforms
 - **Global Rank 6280** on Codolio
 - **1184 rating** on CodeChef
-- **150+ GitHub contributions** in the last year
 
-</div>
+### 🎓 Certifications
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![VOIS](https://img.shields.io/badge/VOIS-00A3E0?style=for-the-badge&logo=vois&logoColor=white)
 
----
-
-## 💼 Experience
-
-<div align="center">
-
-### 🏢 Java Development Intern
-**Cognifyz Technologies (Remote)** | *June 2024 – July 2024*
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- **15% code efficiency improvement** through advanced OOP principles
-- Engineered production-ready Java modules for real-world business scenarios
-- Refactored legacy codebase using design patterns
-
-### 🎤 Volunteer Experience
-**TEDx DAVV - Speaker Outreach & Curation Coordinator** | *Jan 2025 – Mar 2025*
-
-- Successfully secured **10+ speakers** for university-wide TEDx event
-- Managed full communication lifecycle from outreach to content briefing
+- **Cloud Computing & Generative AI Foundations** - Google Cloud
+- **AI & Generative AI Specialization** - IBM
+- **Machine Learning Foundations** - VOIS
 
 </div>
 
@@ -186,8 +164,6 @@ My journey in tech is driven by:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Open+to+Collaborations;Always+Learning;Building+the+Future" alt="Typing SVG" />
   
   <br>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Shatakshi0216&style=flat-square&color=8B5CF6)
   
   *"Innovation distinguishes between a leader and a follower." - Steve Jobs*
 </div>
