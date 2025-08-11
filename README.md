@@ -122,10 +122,12 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
 
-**Achievements:**
-- 🎯 **300+ DSA problems** solved across platforms
-- 🏅 **Global Rank 6280** on Codolio
-- ⭐ **1184 rating** on CodeChef
+**Detailed Stats:**
+- 🎯 **LeetCode:** 150+ problems solved
+- 🏅 **CodeChef:** 1184 rating, 4★ coder
+- ⭐ **HackerRank:** 5★ in Python, 4★ in Problem Solving
+- 🏆 **Codolio:** Global Rank 6280
+- 📚 **Coding Ninja:** 100+ problems completed
 
 </div>
 
