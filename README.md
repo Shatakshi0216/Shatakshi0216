@@ -97,7 +97,7 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shatakshi0216&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6" alt="GitHub Stats" />
   
- 
+  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shatakshi0216&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
@@ -115,8 +115,6 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 
 ### 🏆 **Competitive Programming Stats**
 
-<div align="center">
-
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
@@ -127,11 +125,7 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 - ⭐ **HackerRank:** 5★ in C++ and Java
 - 📚 **Coding Ninjas:** 311 problem submissions, 67-day streak
 
-</div>
-
 ### 🎓 **Professional Certifications**
-
-<div align="center">
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
@@ -141,8 +135,6 @@ I'm a passionate **Software Developer & AI/ML Enthusiast** currently pursuing my
 - ☁️ **Cloud Computing & Generative AI Foundations** - Google Cloud
 - 🤖 **AI & Generative AI Specialization** - IBM  
 - 📚 **Machine Learning Foundations** - VOIS
-
-</div>
 
 ---
 
