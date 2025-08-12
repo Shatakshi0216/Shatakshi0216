@@ -15,52 +15,33 @@
 
 ## 💻 My Toolkit
 
-<table>
-<tr>
-<td width="50%">
+### 🔹 Core Programming
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Java**  
-<img src="https://img.shields.io/badge/-Java-white?style=flat-square&logo=openjdk&logoColor=white&color=ED8B00">  
-<div style="background-color:#ede7f6; border-radius:5px; padding:2px;">
-  <div style="width:95%; background-color:#8e24aa; color:white; text-align:center; border-radius:5px;">95%</div>
-</div>
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Python**  
-<img src="https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=ffdd54&color=3670A0">  
-<div style="background-color:#ede7f6; border-radius:5px; padding:2px;">
-  <div style="width:65%; background-color:#8e24aa; color:white; text-align:center; border-radius:5px;">65%</div>
-</div>
+### 🤖 AI / ML Libraries
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**C++**  
-<img src="https://img.shields.io/badge/-C++-white?style=flat-square&logo=cplusplus&logoColor=white&color=00599C">  
-<div style="background-color:#ede7f6; border-radius:5px; padding:2px;">
-  <div style="width:50%; background-color:#8e24aa; color:white; text-align:center; border-radius:5px;">50%</div>
-</div>
+### 🛠 Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</td>
-<td width="50%">
+### 💡 Soft Skills
+![Leadership](https://img.shields.io/badge/-Leadership-8E24AA?style=for-the-badge&logoColor=white)
+![Communication](https://img.shields.io/badge/-Communication-039BE5?style=for-the-badge&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-43A047?style=for-the-badge&logoColor=white)
+![Teamwork](https://img.shields.io/badge/-Teamwork-FFB300?style=for-the-badge&logoColor=white)
+![Creativity](https://img.shields.io/badge/-Creativity-F50057?style=for-the-badge&logoColor=white)
 
-**HTML**  
-<img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=white&color=E34F26">  
-<div style="background-color:#ede7f6; border-radius:5px; padding:2px;">
-  <div style="width:90%; background-color:#8e24aa; color:white; text-align:center; border-radius:5px;">90%</div>
-</div>
-
-**CSS**  
-<img src="https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=white&color=1572B6">  
-<div style="background-color:#ede7f6; border-radius:5px; padding:2px;">
-  <div style="width:65%; background-color:#8e24aa; color:white; text-align:center; border-radius:5px;">65%</div>
-</div>
-
-**Streamlit**  
-<img src="https://img.shields.io/badge/-Streamlit-white?style=flat-square&logo=streamlit&logoColor=white&color=FF4B4B">  
-<div style="background-color:#ede7f6; border-radius:5px; padding:2px;">
-  <div style="width:80%; background-color:#8e24aa; color:white; text-align:center; border-radius:5px;">80%</div>
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
