@@ -45,42 +45,7 @@
 
 ---
 
-### 🤖 AI / ML Libraries
 
-<table>
-<tr>
-<td width="50%">
-
-**TensorFlow**  
-<img src="https://img.shields.io/badge/-TensorFlow-white?style=flat-square&logo=tensorflow&logoColor=white&color=FF6F00">  
-<div style="background-color:#ede7f6; border-radius:5px; padding:2px;">
-  <div style="width:50%; background-color:#8e24aa; color:white; text-align:center; border-radius:5px;">50%</div>
-</div>
-
-**Scikit-learn**  
-<img src="https://img.shields.io/badge/-Scikit--learn-white?style=flat-square&logo=scikit-learn&logoColor=white&color=F7931E">  
-<div style="background-color:#ede7f6; border-radius:5px; padding:2px;">
-  <div style="width:25%; background-color:#8e24aa; color:white; text-align:center; border-radius:5px;">25%</div>
-</div>
-
-</td>
-<td width="50%">
-
-**Pandas**  
-<img src="https://img.shields.io/badge/-Pandas-white?style=flat-square&logo=pandas&logoColor=white&color=150458">  
-<div style="background-color:#ede7f6; border-radius:5px; padding:2px;">
-  <div style="width:90%; background-color:#8e24aa; color:white; text-align:center; border-radius:5px;">90%</div>
-</div>
-
-**NumPy**  
-<img src="https://img.shields.io/badge/-NumPy-white?style=flat-square&logo=numpy&logoColor=white&color=013243">  
-<div style="background-color:#ede7f6; border-radius:5px; padding:2px;">
-  <div style="width:90%; background-color:#8e24aa; color:white; text-align:center; border-radius:5px;">90%</div>
-</div>
-
-</td>
-</tr>
-</table>
 
 
 
