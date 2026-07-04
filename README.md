@@ -11,8 +11,8 @@
   
   <!-- Your Elite Trophies -->
   <img src="java-5-star.png" height="120" alt="Java 5 Star" style="margin: 0 25px;" />
-  <img src="200-days.png" height="120" alt="200 Days Streak" style="margin: 0 25px;" />
-  <img src="100-days-2026.png" height="120" alt="100 Days Streak 2026" style="margin: 0 25px;" />
+  <img src="200-days.gif" height="120" alt="200 Days Streak" style="margin: 0 25px;" />
+  <img src="100.gif" height="120" alt="100 Days Streak 2026" style="margin: 0 25px;" />
 </div>
 
 <br><br>
