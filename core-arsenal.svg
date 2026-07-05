@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380">
   <style>
-    .section-title { font-family: 'Orbitron', 'Segoe UI', monospace; font-weight: 900; fill: #00f0ff; font-size: 13px; letter-spacing: 2px; }
+    .section-title { font-family: 'Orbitron', 'Segoe UI', monospace; font-weight: 900; fill: #00f0ff; font-size: 12px; letter-spacing: 2px; }
     .header-text { font-family: 'Orbitron', 'Segoe UI', monospace; font-weight: 900; fill: #ffffff; font-size: 15px; letter-spacing: 3px; }
     .card-bg { fill: #0d1117; stroke: #1f242e; stroke-width: 1.5; }
     .chip-bg-cyan { fill: #0c1524; stroke: #00f0ff; stroke-width: 1; }
@@ -41,16 +41,20 @@
     <rect width="340" height="135" rx="10" class="card-bg" />
     <path d="M 10 0 L 330 0" stroke="#00f0ff" class="glow-line" filter="url(#glow-cyan)" />
     <text x="20" y="25" class="section-title">💻 LANGUAGES &amp; DATABASES</text>
-    <rect x="20" y="45" width="70" height="26" rx="13" class="chip-bg-cyan" filter="url(#glow-cyan)" />
-    <text x="55" y="62" class="chip-text">Python</text>
-    <rect x="100" y="45" width="60" height="26" rx="13" class="chip-bg-cyan" />
-    <text x="130" y="62" class="chip-text">Java</text>
-    <rect x="170" y="45" width="55" height="26" rx="13" class="chip-bg-cyan" />
-    <text x="197.5" y="62" class="chip-text">SQL</text>
-    <rect x="20" y="85" width="105" height="26" rx="13" class="chip-bg-cyan" />
-    <text x="72.5" y="102" class="chip-text">PostgreSQL</text>
-    <rect x="135" y="85" width="75" height="26" rx="13" class="chip-bg-cyan" />
-    <text x="172.5" y="102" class="chip-text">SQLite</text>
+    
+    <!-- Column 1 -->
+    <rect x="20" y="40" width="140" height="24" rx="6" class="chip-bg-cyan" filter="url(#glow-cyan)" />
+    <text x="90" y="56" class="chip-text">Python</text>
+    <rect x="20" y="72" width="140" height="24" rx="6" class="chip-bg-cyan" />
+    <text x="90" y="88" class="chip-text">Java</text>
+    <rect x="20" y="104" width="140" height="24" rx="6" class="chip-bg-cyan" />
+    <text x="90" y="120" class="chip-text">SQL</text>
+
+    <!-- Column 2 -->
+    <rect x="180" y="40" width="140" height="24" rx="6" class="chip-bg-cyan" />
+    <text x="250" y="56" class="chip-text">PostgreSQL</text>
+    <rect x="180" y="72" width="140" height="24" rx="6" class="chip-bg-cyan" />
+    <text x="250" y="88" class="chip-text">SQLite</text>
   </g>
 
   <!-- PANEL 2: AI & ML ENGINE -->
@@ -58,14 +62,18 @@
     <rect width="340" height="135" rx="10" class="card-bg" />
     <path d="M 10 0 L 330 0" stroke="#ff007f" class="glow-line" filter="url(#glow-pink)" />
     <text x="20" y="25" class="section-title">🧠 AI &amp; MACHINE LEARNING</text>
-    <rect x="20" y="45" width="100" height="26" rx="13" class="chip-bg-pink" filter="url(#glow-pink)" />
-    <text x="70" y="62" class="chip-text">TensorFlow</text>
-    <rect x="130" y="45" width="95" height="26" rx="13" class="chip-bg-pink" />
-    <text x="177.5" y="62" class="chip-text">LangChain</text>
-    <rect x="20" y="85" width="100" height="26" rx="13" class="chip-bg-pink" />
-    <text x="70" y="102" class="chip-text">Scikit-learn</text>
-    <rect x="130" y="85" width="85" height="26" rx="13" class="chip-bg-pink" />
-    <text x="172.5" y="102" class="chip-text">Streamlit</text>
+    
+    <!-- Column 1 -->
+    <rect x="20" y="40" width="140" height="24" rx="6" class="chip-bg-pink" filter="url(#glow-pink)" />
+    <text x="90" y="56" class="chip-text">TensorFlow</text>
+    <rect x="20" y="72" width="140" height="24" rx="6" class="chip-bg-pink" />
+    <text x="90" y="88" class="chip-text">Scikit-learn</text>
+
+    <!-- Column 2 -->
+    <rect x="180" y="40" width="140" height="24" rx="6" class="chip-bg-pink" />
+    <text x="250" y="56" class="chip-text">LangChain</text>
+    <rect x="180" y="72" width="140" height="24" rx="6" class="chip-bg-pink" />
+    <text x="250" y="88" class="chip-text">Streamlit</text>
   </g>
 
   <!-- PANEL 3: WEB DEV & APIS -->
@@ -73,14 +81,18 @@
     <rect width="340" height="135" rx="10" class="card-bg" />
     <path d="M 10 0 L 330 0" stroke="#7B2CBF" class="glow-line" filter="url(#glow-purple)" />
     <text x="20" y="25" class="section-title">🌐 BACKEND &amp; WEB DEV</text>
-    <rect x="20" y="45" width="80" height="26" rx="13" class="chip-bg-purple" filter="url(#glow-purple)" />
-    <text x="60" y="62" class="chip-text">FastAPI</text>
-    <rect x="110" y="45" width="75" height="26" rx="13" class="chip-bg-purple" />
-    <text x="147.5" y="62" class="chip-text">HTML5</text>
-    <rect x="195" y="45" width="65" height="26" rx="13" class="chip-bg-purple" />
-    <text x="227.5" y="62" class="chip-text">CSS3</text>
-    <rect x="20" y="85" width="95" height="26" rx="13" class="chip-bg-purple" />
-    <text x="67.5" y="102" class="chip-text">Bootstrap</text>
+    
+    <!-- Column 1 -->
+    <rect x="20" y="40" width="140" height="24" rx="6" class="chip-bg-purple" filter="url(#glow-purple)" />
+    <text x="90" y="56" class="chip-text">FastAPI</text>
+    <rect x="20" y="72" width="140" height="24" rx="6" class="chip-bg-purple" />
+    <text x="90" y="88" class="chip-text">Bootstrap</text>
+
+    <!-- Column 2 -->
+    <rect x="180" y="40" width="140" height="24" rx="6" class="chip-bg-purple" />
+    <text x="250" y="56" class="chip-text">HTML5</text>
+    <rect x="180" y="72" width="140" height="24" rx="6" class="chip-bg-purple" />
+    <text x="250" y="88" class="chip-text">CSS3</text>
   </g>
 
   <!-- PANEL 4: DEVOPS & TOOLS -->
@@ -88,19 +100,25 @@
     <rect width="340" height="135" rx="10" class="card-bg" />
     <path d="M 10 0 L 330 0" stroke="#00f0ff" class="glow-line" filter="url(#glow-cyan)" />
     <text x="20" y="25" class="section-title">🛠️ DEVOPS &amp; CLOUD TOOLS</text>
-    <rect x="20" y="45" width="70" height="26" rx="13" class="chip-bg-cyan" filter="url(#glow-cyan)" />
-    <text x="55" y="62" class="chip-text">Docker</text>
-    <rect x="100" y="45" width="60" height="26" rx="13" class="chip-bg-cyan" />
-    <text x="130" y="62" class="chip-text">Redis</text>
-    <rect x="170" y="45" width="85" height="26" rx="13" class="chip-bg-cyan" />
-    <text x="212.5" y="62" class="chip-text">Pinecone</text>
-    <rect x="20" y="85" width="50" height="26" rx="13" class="chip-bg-cyan" />
-    <text x="45" y="102" class="chip-text">Git</text>
-    <rect x="80" y="85" width="75" height="26" rx="13" class="chip-bg-cyan" />
-    <text x="117.5" y="102" class="chip-text">GitHub</text>
-    <rect x="165" y="85" width="75" height="26" rx="13" class="chip-bg-cyan" />
-    <text x="202.5" y="102" class="chip-text">Render</text>
-    <rect x="250" y="85" width="70" height="26" rx="13" class="chip-bg-cyan" />
-    <text x="285" y="102" class="chip-text">Vercel</text>
+    
+    <!-- Column 1 -->
+    <rect x="20" y="40" width="95" height="24" rx="6" class="chip-bg-cyan" filter="url(#glow-cyan)" />
+    <text x="67.5" y="56" class="chip-text">Docker</text>
+    <rect x="20" y="72" width="95" height="24" rx="6" class="chip-bg-cyan" />
+    <text x="67.5" y="88" class="chip-text">Git</text>
+    <rect x="20" y="104" width="95" height="24" rx="6" class="chip-bg-cyan" />
+    <text x="67.5" y="120" class="chip-text">GitHub</text>
+
+    <!-- Column 2 -->
+    <rect x="125" y="40" width="95" height="24" rx="6" class="chip-bg-cyan" />
+    <text x="172.5" y="56" class="chip-text">Redis</text>
+    <rect x="125" y="72" width="95" height="24" rx="6" class="chip-bg-cyan" />
+    <text x="172.5" y="88" class="chip-text">Pinecone</text>
+
+    <!-- Column 3 -->
+    <rect x="230" y="40" width="90" height="24" rx="6" class="chip-bg-cyan" />
+    <text x="275" y="56" class="chip-text">Render</text>
+    <rect x="230" y="72" width="90" height="24" rx="6" class="chip-bg-cyan" />
+    <text x="275" y="88" class="chip-text">Vercel</text>
   </g>
 </svg>
