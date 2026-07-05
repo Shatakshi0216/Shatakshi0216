@@ -25,7 +25,8 @@
   </g>
 
   <g transform="translate(230, 35)">
-    <text x="0" y="25" class="title">🧭 CAMPUS COMPASS // ONLINE</text>
+    <!-- Emoji removed from SVG text -->
+    <text x="0" y="25" class="title">CAMPUS COMPASS // ONLINE</text>
     <text x="0" y="50" class="subtitle">Multi-Tenant College Information System</text>
     <text x="0" y="80" class="body">Designed and engineered scalable backend retrieval servers using FastAPI.</text>
     <text x="0" y="100" class="body">Optimized message logs scaling via Pinecone Vector Database &amp; Redis cache.</text>
