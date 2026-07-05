@@ -30,7 +30,6 @@
   </defs>
 
   <rect width="800" height="380" rx="15" fill="#070a13" stroke="url(#cyan-purple)" stroke-width="2" />
-  
   <path d="M 0 40 L 800 40 M 0 80 L 800 80 M 0 120 L 800 120 M 0 160 L 800 160 M 0 200 L 800 200 M 0 240 L 800 240 M 0 280 L 800 280 M 0 320 L 800 320 M 100 0 L 100 380 M 200 0 L 200 380 M 300 0 L 300 380 M 400 0 L 400 380 M 500 0 L 500 380 M 600 0 L 600 380 M 700 0 L 700 380" stroke="#101524" stroke-width="1" />
 
   <text x="40" y="32" class="header-text">✦ CORE ARSENAL // SYSTEM MATRIX ✦</text>
@@ -41,16 +40,12 @@
     <rect width="340" height="135" rx="10" class="card-bg" />
     <path d="M 10 0 L 330 0" stroke="#00f0ff" class="glow-line" filter="url(#glow-cyan)" />
     <text x="20" y="25" class="section-title">💻 LANGUAGES &amp; DATABASES</text>
-    
-    <!-- Column 1 -->
     <rect x="20" y="40" width="140" height="24" rx="6" class="chip-bg-cyan" filter="url(#glow-cyan)" />
     <text x="90" y="56" class="chip-text">Python</text>
     <rect x="20" y="72" width="140" height="24" rx="6" class="chip-bg-cyan" />
     <text x="90" y="88" class="chip-text">Java</text>
     <rect x="20" y="104" width="140" height="24" rx="6" class="chip-bg-cyan" />
     <text x="90" y="120" class="chip-text">SQL</text>
-
-    <!-- Column 2 -->
     <rect x="180" y="40" width="140" height="24" rx="6" class="chip-bg-cyan" />
     <text x="250" y="56" class="chip-text">PostgreSQL</text>
     <rect x="180" y="72" width="140" height="24" rx="6" class="chip-bg-cyan" />
@@ -62,14 +57,10 @@
     <rect width="340" height="135" rx="10" class="card-bg" />
     <path d="M 10 0 L 330 0" stroke="#ff007f" class="glow-line" filter="url(#glow-pink)" />
     <text x="20" y="25" class="section-title">🧠 AI &amp; MACHINE LEARNING</text>
-    
-    <!-- Column 1 -->
     <rect x="20" y="40" width="140" height="24" rx="6" class="chip-bg-pink" filter="url(#glow-pink)" />
     <text x="90" y="56" class="chip-text">TensorFlow</text>
     <rect x="20" y="72" width="140" height="24" rx="6" class="chip-bg-pink" />
     <text x="90" y="88" class="chip-text">Scikit-learn</text>
-
-    <!-- Column 2 -->
     <rect x="180" y="40" width="140" height="24" rx="6" class="chip-bg-pink" />
     <text x="250" y="56" class="chip-text">LangChain</text>
     <rect x="180" y="72" width="140" height="24" rx="6" class="chip-bg-pink" />
@@ -81,14 +72,10 @@
     <rect width="340" height="135" rx="10" class="card-bg" />
     <path d="M 10 0 L 330 0" stroke="#7B2CBF" class="glow-line" filter="url(#glow-purple)" />
     <text x="20" y="25" class="section-title">🌐 BACKEND &amp; WEB DEV</text>
-    
-    <!-- Column 1 -->
     <rect x="20" y="40" width="140" height="24" rx="6" class="chip-bg-purple" filter="url(#glow-purple)" />
     <text x="90" y="56" class="chip-text">FastAPI</text>
     <rect x="20" y="72" width="140" height="24" rx="6" class="chip-bg-purple" />
     <text x="90" y="88" class="chip-text">Bootstrap</text>
-
-    <!-- Column 2 -->
     <rect x="180" y="40" width="140" height="24" rx="6" class="chip-bg-purple" />
     <text x="250" y="56" class="chip-text">HTML5</text>
     <rect x="180" y="72" width="140" height="24" rx="6" class="chip-bg-purple" />
@@ -100,22 +87,16 @@
     <rect width="340" height="135" rx="10" class="card-bg" />
     <path d="M 10 0 L 330 0" stroke="#00f0ff" class="glow-line" filter="url(#glow-cyan)" />
     <text x="20" y="25" class="section-title">🛠️ DEVOPS &amp; CLOUD TOOLS</text>
-    
-    <!-- Column 1 -->
     <rect x="20" y="40" width="95" height="24" rx="6" class="chip-bg-cyan" filter="url(#glow-cyan)" />
     <text x="67.5" y="56" class="chip-text">Docker</text>
     <rect x="20" y="72" width="95" height="24" rx="6" class="chip-bg-cyan" />
     <text x="67.5" y="88" class="chip-text">Git</text>
     <rect x="20" y="104" width="95" height="24" rx="6" class="chip-bg-cyan" />
     <text x="67.5" y="120" class="chip-text">GitHub</text>
-
-    <!-- Column 2 -->
     <rect x="125" y="40" width="95" height="24" rx="6" class="chip-bg-cyan" />
     <text x="172.5" y="56" class="chip-text">Redis</text>
     <rect x="125" y="72" width="95" height="24" rx="6" class="chip-bg-cyan" />
     <text x="172.5" y="88" class="chip-text">Pinecone</text>
-
-    <!-- Column 3 -->
     <rect x="230" y="40" width="90" height="24" rx="6" class="chip-bg-cyan" />
     <text x="275" y="56" class="chip-text">Render</text>
     <rect x="230" y="72" width="90" height="24" rx="6" class="chip-bg-cyan" />
