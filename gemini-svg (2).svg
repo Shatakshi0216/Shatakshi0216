@@ -17,6 +17,7 @@
 
   <g transform="translate(40, 30)">
     <rect width="160" height="160" rx="10" fill="#0c0f1d" stroke="#ff007f" stroke-width="1.5" filter="url(#glow)" />
+    <!-- Document Graphic -->
     <rect x="50" y="45" width="60" height="75" rx="5" fill="none" stroke="#00f0ff" stroke-width="2" />
     <line x1="60" y1="65" x2="100" y2="65" stroke="#00f0ff" stroke-width="2" />
     <line x1="60" y1="80" x2="100" y2="80" stroke="#00f0ff" stroke-width="2" />
@@ -25,8 +26,8 @@
   </g>
 
   <g transform="translate(230, 35)">
-    <!-- Emoji removed from SVG text -->
-    <text x="0" y="25" class="title">RESUME FORGE // EXPERT</text>
+    <!-- '// EXPERT' suffix removed from title -->
+    <text x="0" y="25" class="title">RESUME FORGE</text>
     <text x="0" y="50" class="subtitle">AI Development Collaborator</text>
     <text x="0" y="80" class="body">Developed a Streamlit &amp; Gemini API powered ATS parser optimization platform.</text>
     <text x="0" y="100" class="body">Designed and implemented Gemini API calls, reducing response latency from 8s to 2s.</text>
