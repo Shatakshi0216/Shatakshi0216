@@ -17,6 +17,7 @@
 
   <g transform="translate(40, 30)">
     <rect width="160" height="160" rx="10" fill="#0c0f1d" stroke="#00f0ff" stroke-width="1.5" filter="url(#glow)" />
+    <!-- Team Network Graphic -->
     <line x1="80" y1="50" x2="50" y2="100" stroke="#ff007f" stroke-width="1.5" />
     <line x1="80" y1="50" x2="110" y2="100" stroke="#ff007f" stroke-width="1.5" />
     <line x1="50" y1="100" x2="110" y2="100" stroke="#00f0ff" stroke-width="1.5" />
@@ -30,8 +31,8 @@
   </g>
 
   <g transform="translate(230, 35)">
-    <!-- Emoji removed from SVG text -->
-    <text x="0" y="25" class="title">TEAMMATCH AI // COLLAB</text>
+    <!-- '// COLLAB' suffix removed from title -->
+    <text x="0" y="25" class="title">TEAMMATCH AI</text>
     <text x="0" y="50" class="subtitle">Intelligent Team Formation Platform</text>
     <text x="0" y="80" class="body">Engineered an 8-dimensional KNN recommendation engine using FastAPI and SQLite.</text>
     <text x="0" y="100" class="body">Achieved sub-50ms response times for teammate matching queries based on profile specs.</text>
