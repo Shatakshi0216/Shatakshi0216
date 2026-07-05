@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240">
+  <style>
+    .title { font-family: 'Orbitron', 'Segoe UI', monospace; font-weight: 900; fill: #00f0ff; font-size: 14px; letter-spacing: 2px; }
+    .label { font-family: 'Segoe UI', sans-serif; font-weight: 600; fill: #a3a3a3; font-size: 11px; letter-spacing: 1px; }
+    .value { font-family: 'Orbitron', 'Segoe UI', monospace; font-weight: 800; fill: #ffffff; font-size: 20px; }
+    .rating-lc { fill: #ffa116; }
+    .rating-cc { fill: #ff7b00; }
+    .rating-hr { fill: #2ec866; }
+    .card-bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
+  </style>
+
+  <!-- Glowing filters -->
+  <defs>
+    <filter id="glow-lc" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="glow-cc" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="glow-hr" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <linearGradient id="cyan-pink" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="100%" stop-color="#ff007f" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background container -->
+  <rect width="800" height="240" rx="15" fill="#070a13" stroke="url(#cyan-pink)" stroke-width="2" />
+  
+  <!-- Grid Pattern in background -->
+  <path d="M 0 40 L 800 40 M 0 80 L 800 80 M 0 120 L 800 120 M 0 160 L 800 160 M 0 200 L 800 200 M 100 0 L 100 240 M 200 0 L 200 240 M 300 0 L 300 240 M 400 0 L 400 240 M 500 0 L 500 240 M 600 0 L 600 240 M 700 0 L 700 240" stroke="#101524" stroke-width="1" />
+
+  <!-- HEADER -->
+  <text x="40" y="32" class="title">✦ CP DIAGNOSTICS // ONLINE ✦</text>
+  <line x1="40" y1="42" x2="760" y2="42" stroke="#1f2438" stroke-width="1" />
+
+  <!-- LEETCODE -->
+  <g transform="translate(40, 65)">
+    <rect width="220" height="140" rx="10" class="card-bg" />
+    <path d="M 10 0 L 210 0" stroke="#ffa116" stroke-width="3" filter="url(#glow-lc)" />
+    
+    <text x="20" y="30" class="label">PLATFORM</text>
+    <text x="20" y="52" class="value rating-lc">LEETCODE</text>
+    
+    <text x="20" y="85" class="label">PEAK RATING</text>
+    <text x="20" y="110" class="value">1756 <tspan font-size="11" fill="#ffa116" font-family="sans-serif"> (Top 10%)</tspan></text>
+    
+    <circle cx="170" cy="70" r="25" fill="none" stroke="#1f2438" stroke-width="5" />
+    <circle cx="170" cy="70" r="25" fill="none" stroke="#ffa116" stroke-width="5" stroke-dasharray="157" stroke-dashoffset="40" stroke-linecap="round" filter="url(#glow-lc)" />
+    <text x="170" y="74" font-family="'Orbitron', monospace" font-size="10" fill="#ffffff" text-anchor="middle" font-weight="bold">90%</text>
+  </g>
+
+  <!-- CODECHEF -->
+  <g transform="translate(290, 65)">
+    <rect width="220" height="140" rx="10" class="card-bg" />
+    <path d="M 10 0 L 210 0" stroke="#ff7b00" stroke-width="3" filter="url(#glow-cc)" />
+    
+    <text x="20" y="30" class="label">PLATFORM</text>
+    <text x="20" y="52" class="value" fill="#ff7b00">CODECHEF</text>
+    
+    <text x="20" y="85" class="label">PEAK RATING</text>
+    <text x="20" y="110" class="value">1180</text>
+    
+    <circle cx="170" cy="70" r="25" fill="none" stroke="#1f2438" stroke-width="5" />
+    <circle cx="170" cy="70" r="25" fill="none" stroke="#ff7b00" stroke-width="5" stroke-dasharray="157" stroke-dashoffset="90" stroke-linecap="round" filter="url(#glow-cc)" />
+    <text x="170" y="74" font-family="'Orbitron', monospace" font-size="10" fill="#ffffff" text-anchor="middle" font-weight="bold">3★</text>
+  </g>
+
+  <!-- HACKERRANK -->
+  <g transform="translate(540, 65)">
+    <rect width="220" height="140" rx="10" class="card-bg" />
+    <path d="M 10 0 L 210 0" stroke="#2ec866" stroke-width="3" filter="url(#glow-hr)" />
+    
+    <text x="20" y="30" class="label">PLATFORM</text>
+    <text x="20" y="52" class="value rating-hr">HACKERRANK</text>
+    
+    <text x="20" y="85" class="label">STATUS</text>
+    <text x="20" y="110" class="value" font-size="16">5-STAR <tspan font-size="11" fill="#2ec866">C++ &amp; Java</tspan></text>
+    
+    <g transform="translate(155, 55)">
+      <polygon points="15,0 19,10 30,10 21,17 25,27 15,20 5,27 9,17 0,10 11,10" fill="#2ec866" filter="url(#glow-hr)" />
+    </g>
+  </g>
+</svg>
