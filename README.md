@@ -1,92 +1,82 @@
-<!-- 🌌 THE HERO BANNER 🌌 -->
 <div align="center">
-  <img src="6e764e64-d232-449e-9663-c20b2460303b.jpg" alt="Shatakshi Tiwari - AI & Software Engineer" width="100%" style="border-radius: 15px;">
-</div>
-
-<br>
-
-<!-- 🏆 ELITE DSA TROPHIES (THE PROVING GROUNDS) 🏆 -->
-<div align="center">
-  <p><code>[ COMMANDING ALGORITHMS | 600+ DSA CONQUERED | 300+ ACTIVE DAYS ]</code></p>
   
-  <img src="java-5-star.png" height="90" alt="Java 5 Star" style="margin: 0 15px;" />
-  <img src="200-days.gif" height="90" alt="200 Days Streak" style="margin: 0 15px;" />
-  <img src="100.gif" height="90" alt="100 Days Streak 2026" style="margin: 0 15px;" />
-</div>
+  <!-- THE HERO BANNER -->
+  <img src="6e764e64-d232-449e-9663-c20b2460303b.jpg" alt="Shatakshi Tiwari" width="100%" />
 
-<br><br>
+  <br><br>
 
-<!-- ⚡ THE CYBERPUNK DASHBOARD GRID ⚡ -->
-<table align="center" style="border-collapse: collapse; border: none; background-color: transparent; width: 100%;">
-  <tr>
-    
-    <!-- LEFT COLUMN: STATS & SKILLS -->
-    <td width="40%" valign="top" style="border: none; padding: 10px;">
-      
-      <!-- Profile Stats Widget (Neon Radical Theme) -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Shatakshi0216&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Shatakshi Stats" width="100%" />
-      
-      <br><br><br>
+  <!-- GLOWING NEON TYPING TEXT -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00f0ff&center=true&vCenter=true&width=800&lines=AI+%26+Computer+Vision+Engineer;Architecting+Intelligent+AI+Agents;600%2B+DSA+Challenges+Conquered;Building+Scalable+Backend+Systems" alt="Typing Title" />
 
-      <!-- The Tech Arsenal -->
-      <h3 align="center" style="color: #ff007f;">✦ The Tech Arsenal ✦</h3>
-      
-      <div align="center">
-        <b>Core Languages</b><br>
-        <img src="https://skillicons.dev/icons?i=java,py,sql&theme=dark" style="margin-top: 5px;" /><br><br>
-        
-        <b>AI Agents & Vision</b><br>
-        <img src="https://skillicons.dev/icons?i=tensorflow,fastapi,pytorch,opencv&theme=dark" style="margin-top: 5px;" /><br><br>
-        
-        <b>Backend & Vaults</b><br>
-        <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git&theme=dark" style="margin-top: 5px;" />
-      </div>
+  <br><br>
 
-    </td>
-    
-    <!-- RIGHT COLUMN: STREAK & PROJECTS -->
-    <td width="60%" valign="top" style="border: none; padding: 10px;">
-      
-      <!-- GitHub Streak Widget (Neon Radical Theme) -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shatakshi0216&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+  <!-- PREMIUM SUBTITLE -->
+  <p style="font-size: 15px; color: #a3a3a3;">
+    <b>MTech (IT) @ IIPS, DAVV</b> • Forging logic from chaos • Architecting backend systems & AI solutions
+  </p>
+  <p style="font-size: 13px; color: #7a7a7a;">
+    <i>Currently engineering intelligent platforms & building The Missing Fit</i>
+  </p>
 
-      <br><br>
-      
-      <!-- Vault of Creations (AI Agent Projects) -->
-      <h3 style="color: #00f0ff; margin-left: 15px;">✦ Vault of Creations ✦</h3>
-      
-      <!-- KrishiMitra GitHub Card -->
-      <div align="center">
-        <a href="https://github.com/Shatakshi0216/KrishiMitra">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shatakshi0216&repo=KrishiMitra&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f0ff" width="95%" />
-        </a>
-      </div>
-      
-      <br>
+  <br>
 
-      <!-- Campus Compass GitHub Card -->
-      <div align="center">
-        <a href="https://github.com/Shatakshi0216/CampusCompass">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shatakshi0216&repo=CampusCompass&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f0ff" width="95%" />
-        </a>
-      </div>
+  <!-- NEON DIVIDER LINE -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff007f&height=2&width=600" />
 
-      <br>
+  <br><br><br>
 
-      <!-- TeamMatch GitHub Card -->
-      <div align="center">
-        <a href="https://github.com/Shatakshi0216/TeamMatch">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shatakshi0216&repo=TeamMatch&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f0ff" width="95%" />
-        </a>
-      </div>
+  <!-- 🏆 THE TROPHY ROOM 🏆 -->
+  <h2 style="color: #ffffff; margin-bottom: 0;">✦ ELITE PROVING GROUNDS ✦</h2>
+  <p style="color: #a3a3a3;"><code>[ PEAK RATING: 1756 | 300+ ACTIVE DAYS ]</code></p>
+  <br>
+  <img src="java-5-star.png" height="120" style="margin: 0 20px;" />
+  <img src="200-days.gif" height="120" style="margin: 0 20px;" />
+  <img src="100.gif" height="120" style="margin: 0 20px;" />
 
-    </td>
-    
-  </tr>
-</table>
+  <br><br><br>
 
-<br>
+  <!-- ⚡ THE TECH ARSENAL ⚡ -->
+  <h2 style="color: #ffffff;">✦ CORE ARSENAL ✦</h2>
+  <br>
+  <!-- Strictly categorized, high-end backend & logic stack -->
+  <img src="https://skillicons.dev/icons?i=java,py,sql,cpp,tensorflow,fastapi,pytorch,opencv,postgres,docker,redis,git&theme=dark&perline=6" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:00f0ff&height=100&section=footer" width="100%"/>
+  <br><br><br>
+
+  <!-- 🌌 VAULT OF CREATIONS (NEON BENTO BOXES) 🌌 -->
+  <h2 style="color: #ffffff;">✦ VAULT OF CREATIONS ✦</h2>
+  <br>
+
+  <!-- Row 1: Alternating Pink & Cyan Neon Borders -->
+  <a href="https://github.com/Shatakshi0216/KrishiMitra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shatakshi0216&repo=KrishiMitra&theme=radical&hide_border=false&border_color=ff007f&border_radius=10&bg_color=0D1117&title_color=ff007f&icon_color=ff007f&text_color=a3a3a3&cache_seconds=86400" width="48%" style="margin-right: 1%;" />
+  </a>
+  <a href="https://github.com/Shatakshi0216/TeamMatch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shatakshi0216&repo=TeamMatch&theme=radical&hide_border=false&border_color=00f0ff&border_radius=10&bg_color=0D1117&title_color=00f0ff&icon_color=00f0ff&text_color=a3a3a3&cache_seconds=86400" width="48%" />
+  </a>
+  
+  <br><br>
+
+  <!-- Row 2: Alternating Cyan & Pink Neon Borders -->
+  <a href="https://github.com/Shatakshi0216/CampusCompass">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shatakshi0216&repo=CampusCompass&theme=radical&hide_border=false&border_color=00f0ff&border_radius=10&bg_color=0D1117&title_color=00f0ff&icon_color=00f0ff&text_color=a3a3a3&cache_seconds=86400" width="48%" style="margin-right: 1%;" />
+  </a>
+  <a href="https://github.com/Shatakshi0216/ExoQuest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shatakshi0216&repo=ExoQuest&theme=radical&hide_border=false&border_color=ff007f&border_radius=10&bg_color=0D1117&title_color=ff007f&icon_color=ff007f&text_color=a3a3a3&cache_seconds=86400" width="48%" />
+  </a>
+
+  <br><br><br>
+
+  <!-- 📊 LIVE TELEMETRY (NEON BENTO BOXES) 📊 -->
+  <h2 style="color: #ffffff;">✦ LIVE TELEMETRY ✦</h2>
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Shatakshi0216&show_icons=true&theme=radical&hide_border=false&border_color=ff007f&border_radius=10&bg_color=0D1117&title_color=ff007f&text_color=a3a3a3&cache_seconds=86400" width="48%" style="margin-right: 1%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shatakshi0216&theme=radical&hide_border=false&border_color=00f0ff&border_radius=10&bg_color=0D1117&title_color=00f0ff&text_color=a3a3a3&layout=compact&cache_seconds=86400" width="48%" />
+
+  <br><br><br>
+
+  <!-- FLUID FOOTER WAVE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:00f0ff&height=120&section=footer" width="100%" />
+
 </div>
