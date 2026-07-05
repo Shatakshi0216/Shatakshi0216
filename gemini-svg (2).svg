@@ -25,7 +25,8 @@
   </g>
 
   <g transform="translate(230, 35)">
-    <text x="0" y="25" class="title">🛠️ RESUME FORGE // EXPERT</text>
+    <!-- Emoji removed from SVG text -->
+    <text x="0" y="25" class="title">RESUME FORGE // EXPERT</text>
     <text x="0" y="50" class="subtitle">AI Development Collaborator</text>
     <text x="0" y="80" class="body">Developed a Streamlit &amp; Gemini API powered ATS parser optimization platform.</text>
     <text x="0" y="100" class="body">Designed and implemented Gemini API calls, reducing response latency from 8s to 2s.</text>
