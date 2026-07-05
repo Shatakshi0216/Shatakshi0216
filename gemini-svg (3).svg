@@ -17,6 +17,7 @@
 
   <g transform="translate(40, 30)">
     <rect width="160" height="160" rx="10" fill="#0c0f1d" stroke="#00f0ff" stroke-width="1.5" filter="url(#glow)" />
+    <!-- Scanner Graphic -->
     <circle cx="80" cy="80" r="35" fill="none" stroke="#00f0ff" stroke-width="2" />
     <circle cx="80" cy="80" r="25" fill="none" stroke="#ff007f" stroke-width="1" stroke-dasharray="6 3" />
     <rect x="55" y="55" width="50" height="50" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="10 5" />
@@ -24,8 +25,8 @@
   </g>
 
   <g transform="translate(230, 35)">
-    <!-- Emoji removed from SVG text -->
-    <text x="0" y="25" class="title">FIELDLENS // CV ENGINE</text>
+    <!-- Suffix removed from title -->
+    <text x="0" y="25" class="title">FIELDLENS</text>
     <text x="0" y="50" class="subtitle">AI Engineer Consultant</text>
     <text x="0" y="80" class="body">Built an OCR pipeline using EasyOCR to extract MAC/RSN IDs with 90%+ validation accuracy.</text>
     <text x="0" y="100" class="body">Designed and implemented image preprocessing and validation algorithms.</text>
