@@ -24,7 +24,8 @@
   </g>
 
   <g transform="translate(230, 35)">
-    <text x="0" y="25" class="title">🔍 FIELDLENS // COMPUTER VISION</text>
+    <!-- Emoji removed from SVG text -->
+    <text x="0" y="25" class="title">FIELDLENS // CV ENGINE</text>
     <text x="0" y="50" class="subtitle">AI Engineer Consultant</text>
     <text x="0" y="80" class="body">Built an OCR pipeline using EasyOCR to extract MAC/RSN IDs with 90%+ validation accuracy.</text>
     <text x="0" y="100" class="body">Designed and implemented image preprocessing and validation algorithms.</text>
