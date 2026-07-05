@@ -35,7 +35,7 @@
 
 <!-- Custom Proving Grounds Dashboard SVG -->
 <p align="center">
-  <img src="proving-grounds-stats.svg" width="100%" alt="Proving Grounds Stats Dashboard" />
+  <img src="proving-grounds-stats.svg?v=3" width="100%" alt="Proving Grounds Stats Dashboard" />
 </p>
 
 <br/>
@@ -51,80 +51,80 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=✦%20CORE%20ARSENAL%20✦&height=40&fontSize=26" />
 
 <p align="center">
-  <img src="core-arsenal.svg" width="100%" alt="Core Arsenal Skills Grid" />
+  <img src="core-arsenal.svg?v=3" width="100%" alt="Core Arsenal Skills Grid" />
 </p>
 
 <hr width="80%">
 
-<!-- PROFESSIONAL EXPERIENCE SECTION (Line breaks removed for tight spacing) -->
+<!-- PROFESSIONAL EXPERIENCE SECTION -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=✦%20EXPERIENCE%20VAULT%20✦&height=50&fontSize=30" />
 
 <!-- Experience 1: Resume Forge -->
-<a href="https://github.com/Shatakshi0216/Resume-Forge" target="_blank">
-  <img src="gemini-svg%20(2).svg" width="100%" alt="Resume Forge AI Collaborator" />
+<a href="https://github.com/shivamr021/Resume-Forge" target="_blank">
+  <img src="gemini-svg%20(2).svg?v=3" width="100%" alt="Resume Forge AI Collaborator" />
 </a>
 <br/>
-<a href="https://github.com/Shatakshi0216/Resume-Forge" target="_blank">
+<a href="https://github.com/shivamr021/Resume-Forge" target="_blank">
   <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
 </a>
 
 <br/><br/><br/>
 
 <!-- Experience 2: FieldLens -->
-<a href="https://github.com/Shatakshi0216/FieldLens" target="_blank">
-  <img src="gemini-svg%20(3).svg" width="100%" alt="FieldLens AI Engineer" />
+<a href="https://github.com/shivamr021/FieldLens" target="_blank">
+  <img src="gemini-svg%20(3).svg?v=3" width="100%" alt="FieldLens AI Engineer" />
 </a>
 <br/>
-<a href="https://github.com/Shatakshi0216/FieldLens" target="_blank">
+<a href="https://github.com/shivamr021/FieldLens" target="_blank">
   <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
 </a>
 
 <hr width="80%">
 
-<!-- FEATURED PROJECTS SECTION (Line breaks removed for tight spacing) -->
+<!-- FEATURED PROJECTS SECTION -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=✦%20FEATURED%20PROJECTS%20✦&height=50&fontSize=30" />
 
 <!-- Project 1: KrishiMitra -->
-<a href="https://github.com/Shatakshi0216/KrishiMitra" target="_blank">
-  <img src="gemini-svg.svg" width="100%" alt="KrishiMitra AI Platform" />
+<a href="https://github.com/shivamr021/KrishiMitra-AI" target="_blank">
+  <img src="gemini-svg.svg?v=3" width="100%" alt="KrishiMitra AI Platform" />
 </a>
 <br/>
-<a href="https://github.com/Shatakshi0216/KrishiMitra" target="_blank">
+<a href="https://github.com/shivamr021/KrishiMitra-AI" target="_blank">
   <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
 </a>
 &nbsp;
-<a href="https://krishimitra-ai.streamlit.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-6A1B9A?style=flat-square" height="22px" />
+<a href="https://krishi-mitra-dev-ai.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Link-00f0ff?style=flat-square&logoColor=black" height="22px" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/shorts/ygmrwU6daT0" target="_blank">
+  <img src="https://img.shields.io/badge/Video_Demo-ff007f?style=flat-square" height="22px" />
 </a>
 
 <br/><br/><br/>
 
 <!-- Project 2: TeamMatch AI -->
-<a href="https://github.com/Shatakshi0216/TeamMatch" target="_blank">
-  <img src="gemini-svg%20(1).svg" width="100%" alt="TeamMatch AI Recommender" />
+<a href="https://github.com/Shatakshi0216/TeamMatch-AI" target="_blank">
+  <img src="gemini-svg%20(1).svg?v=3" width="100%" alt="TeamMatch AI Recommender" />
 </a>
 <br/>
-<a href="https://github.com/Shatakshi0216/TeamMatch" target="_blank">
+<a href="https://github.com/Shatakshi0216/TeamMatch-AI" target="_blank">
   <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
 </a>
 &nbsp;
-<a href="#" target="_blank">
+<a href="https://team-match-ai-phi.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live_Link-00f0ff?style=flat-square&logoColor=black" height="22px" />
 </a>
 
 <br/><br/><br/>
 
 <!-- Project 3: Campus Compass -->
-<a href="https://github.com/Shatakshi0216/Campus-Compass" target="_blank">
-  <img src="campus-compass.svg" width="100%" alt="Campus Compass Retrieval" />
+<a href="https://github.com/shivamr021/campus-compass" target="_blank">
+  <img src="campus-compass.svg?v=3" width="100%" alt="Campus Compass Retrieval" />
 </a>
 <br/>
-<a href="https://github.com/Shatakshi0216/Campus-Compass" target="_blank">
+<a href="https://github.com/shivamr021/campus-compass" target="_blank">
   <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
-</a>
-&nbsp;
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Link-7B2CBF?style=flat-square" height="22px" />
 </a>
 
 <br/><br/>
