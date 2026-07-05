@@ -56,10 +56,8 @@
 
 <hr width="80%">
 
-<!-- PROFESSIONAL EXPERIENCE SECTION (Stacked layout with tight vertical spacing) -->
+<!-- PROFESSIONAL EXPERIENCE SECTION (Line breaks removed for tight spacing) -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=✦%20EXPERIENCE%20VAULT%20✦&height=50&fontSize=30" />
-
-<br/><br/>
 
 <!-- Experience 1: Resume Forge -->
 <a href="https://github.com/Shatakshi0216/Resume-Forge" target="_blank">
@@ -83,10 +81,8 @@
 
 <hr width="80%">
 
-<!-- FEATURED PROJECTS SECTION (Stacked layout with tight vertical spacing) -->
+<!-- FEATURED PROJECTS SECTION (Line breaks removed for tight spacing) -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=✦%20FEATURED%20PROJECTS%20✦&height=50&fontSize=30" />
-
-<br/><br/>
 
 <!-- Project 1: KrishiMitra -->
 <a href="https://github.com/Shatakshi0216/KrishiMitra" target="_blank">
