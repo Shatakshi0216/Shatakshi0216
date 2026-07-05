@@ -56,7 +56,7 @@
 
 <hr width="80%">
 
-<!-- PROFESSIONAL EXPERIENCE SECTION (Full-width stacked cards to ensure text readability) -->
+<!-- PROFESSIONAL EXPERIENCE SECTION (Stacked layout with tight vertical spacing) -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=✦%20EXPERIENCE%20VAULT%20✦&height=50&fontSize=30" />
 
 <br/><br/>
@@ -65,27 +65,25 @@
 <a href="https://github.com/Shatakshi0216/Resume-Forge" target="_blank">
   <img src="gemini-svg%20(2).svg" width="100%" alt="Resume Forge AI Collaborator" />
 </a>
-<p align="center">
-  <a href="https://github.com/Shatakshi0216/Resume-Forge" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
-  </a>
-</p>
-
 <br/>
+<a href="https://github.com/Shatakshi0216/Resume-Forge" target="_blank">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
+</a>
+
+<br/><br/><br/>
 
 <!-- Experience 2: FieldLens -->
 <a href="https://github.com/Shatakshi0216/FieldLens" target="_blank">
   <img src="gemini-svg%20(3).svg" width="100%" alt="FieldLens AI Engineer" />
 </a>
-<p align="center">
-  <a href="https://github.com/Shatakshi0216/FieldLens" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
-  </a>
-</p>
+<br/>
+<a href="https://github.com/Shatakshi0216/FieldLens" target="_blank">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
+</a>
 
 <hr width="80%">
 
-<!-- FEATURED PROJECTS SECTION (Full-width stacked cards to ensure text readability) -->
+<!-- FEATURED PROJECTS SECTION (Stacked layout with tight vertical spacing) -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=✦%20FEATURED%20PROJECTS%20✦&height=50&fontSize=30" />
 
 <br/><br/>
@@ -94,47 +92,44 @@
 <a href="https://github.com/Shatakshi0216/KrishiMitra" target="_blank">
   <img src="gemini-svg.svg" width="100%" alt="KrishiMitra AI Platform" />
 </a>
-<p align="center">
-  <a href="https://github.com/Shatakshi0216/KrishiMitra" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
-  </a>
-  &nbsp;
-  <a href="https://krishimitra-ai.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-6A1B9A?style=flat-square" height="22px" />
-  </a>
-</p>
-
 <br/>
+<a href="https://github.com/Shatakshi0216/KrishiMitra" target="_blank">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
+</a>
+&nbsp;
+<a href="https://krishimitra-ai.streamlit.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-6A1B9A?style=flat-square" height="22px" />
+</a>
+
+<br/><br/><br/>
 
 <!-- Project 2: TeamMatch AI -->
 <a href="https://github.com/Shatakshi0216/TeamMatch" target="_blank">
   <img src="gemini-svg%20(1).svg" width="100%" alt="TeamMatch AI Recommender" />
 </a>
-<p align="center">
-  <a href="https://github.com/Shatakshi0216/TeamMatch" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
-  </a>
-  &nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Link-00f0ff?style=flat-square&logoColor=black" height="22px" />
-  </a>
-</p>
-
 <br/>
+<a href="https://github.com/Shatakshi0216/TeamMatch" target="_blank">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
+</a>
+&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Link-00f0ff?style=flat-square&logoColor=black" height="22px" />
+</a>
+
+<br/><br/><br/>
 
 <!-- Project 3: Campus Compass -->
 <a href="https://github.com/Shatakshi0216/Campus-Compass" target="_blank">
   <img src="campus-compass.svg" width="100%" alt="Campus Compass Retrieval" />
 </a>
-<p align="center">
-  <a href="https://github.com/Shatakshi0216/Campus-Compass" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
-  </a>
-  &nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Link-7B2CBF?style=flat-square" height="22px" />
-  </a>
-</p>
+<br/>
+<a href="https://github.com/Shatakshi0216/Campus-Compass" target="_blank">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
+</a>
+&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Link-7B2CBF?style=flat-square" height="22px" />
+</a>
 
 <br/><br/>
 
