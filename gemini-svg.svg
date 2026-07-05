@@ -17,6 +17,7 @@
 
   <g transform="translate(40, 30)">
     <rect width="160" height="160" rx="10" fill="#0c0f1d" stroke="#ff007f" stroke-width="1.5" filter="url(#glow)" />
+    <!-- Leaf Vector -->
     <path d="M 80 40 C 50 70 50 110 80 120 C 110 110 110 70 80 40 Z" fill="none" stroke="#00f0ff" stroke-width="2" />
     <path d="M 80 40 C 70 65 70 95 80 120" fill="none" stroke="#ff007f" stroke-width="1.5" />
     <path d="M 80 60 C 90 70 95 80 95 80" fill="none" stroke="#ff007f" stroke-width="1.5" />
@@ -25,7 +26,8 @@
   </g>
 
   <g transform="translate(230, 35)">
-    <text x="0" y="25" class="title">🌾 KRISHIMITRA // AGRITECH</text>
+    <!-- Emoji removed from SVG text to prevent broken rendering -->
+    <text x="0" y="25" class="title">KRISHIMITRA // AGRITECH</text>
     <text x="0" y="50" class="subtitle">Multilingual AgriTech Assistant &amp; Disease Detector</text>
     <text x="0" y="80" class="body">EfficientNetB0 + Gemini Vision multilingual WhatsApp assistant for 27-crop disease classification.</text>
     <text x="0" y="100" class="body">Led WhatsApp agri-assistant conversations supporting over 1,200+ active users.</text>
