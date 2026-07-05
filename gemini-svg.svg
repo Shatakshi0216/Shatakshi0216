@@ -26,8 +26,8 @@
   </g>
 
   <g transform="translate(230, 35)">
-    <!-- Emoji removed from SVG text to prevent broken rendering -->
-    <text x="0" y="25" class="title">KRISHIMITRA // AGRITECH</text>
+    <!-- '// AGRITECH' suffix removed from title -->
+    <text x="0" y="25" class="title">KRISHIMITRA</text>
     <text x="0" y="50" class="subtitle">Multilingual AgriTech Assistant &amp; Disease Detector</text>
     <text x="0" y="80" class="body">EfficientNetB0 + Gemini Vision multilingual WhatsApp assistant for 27-crop disease classification.</text>
     <text x="0" y="100" class="body">Led WhatsApp agri-assistant conversations supporting over 1,200+ active users.</text>
