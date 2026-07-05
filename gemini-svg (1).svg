@@ -30,7 +30,8 @@
   </g>
 
   <g transform="translate(230, 35)">
-    <text x="0" y="25" class="title">👥 TEAMMATCH AI // COLLAB</text>
+    <!-- Emoji removed from SVG text -->
+    <text x="0" y="25" class="title">TEAMMATCH AI // COLLAB</text>
     <text x="0" y="50" class="subtitle">Intelligent Team Formation Platform</text>
     <text x="0" y="80" class="body">Engineered an 8-dimensional KNN recommendation engine using FastAPI and SQLite.</text>
     <text x="0" y="100" class="body">Achieved sub-50ms response times for teammate matching queries based on profile specs.</text>
